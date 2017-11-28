@@ -1,5 +1,7 @@
 body{
 	background-color:red;	
+	background-image: url("../memes/meme.jpg");
+	background-size: cover;
 }
 
 p.content{
@@ -7,7 +9,6 @@ p.content{
 	font-size:32px;
 	font-weight:bold;
 	text-align:center;
-	background:white;
 }
 
 p{
@@ -21,4 +22,7 @@ h1{
 	font-weight:bold;
 	text-align:center;
 	font-color:red;
+}
+.contents{
+	color:#4E362A;
 }
